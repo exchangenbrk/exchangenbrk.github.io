@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /contacts.html
+
+User-agent: Yandex
+Disallow: /contacts.html
+Host:exchangenbrk.github.io
